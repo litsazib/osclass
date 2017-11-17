@@ -1,5 +1,4 @@
 <?php
-
 /**
  * The base MySQL settings of Osclass
  */
@@ -12,7 +11,7 @@ define('DB_NAME', 'osclassdb');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -23,5 +22,3 @@ define('DB_TABLE_PREFIX', 'oc_site1');
 define('REL_WEB_URL', '/osclass/');
 
 define('WEB_PATH', 'http://localhost/osclass/');
-
-?>
