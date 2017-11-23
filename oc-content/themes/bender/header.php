@@ -84,6 +84,7 @@
     </form>
     <?php } ?>
 </div>
+<!--.end header -->
 <?php osc_show_widgets('header'); ?>
 <div class="wrapper wrapper-flash">
     <?php
